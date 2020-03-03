@@ -7,7 +7,7 @@
     "url": "https://github.com/reactjs/reactjs.org"
   },
   "dependencies": {
-    "@wardpeet/gatsby-plugin-sourcemap-explorer": "^0.0.1",
+    "@wardpeet/gatsby-plugin-sourcemap-explorer": "^0.0.2",
     "babel-eslint": "^8.0.1",
     "eslint": "^4.8.0",
     "eslint-config-fbjs": "^2.0.0",
@@ -19,7 +19,7 @@
     "eslint-plugin-react": "^7.4.0",
     "eslint-plugin-relay": "^0.0.19",
     "flow-bin": "^0.56.0",
-    "gatsby": "2.19.25-granular-chunks.15",
+    "gatsby": "^2.19.25-granular-chunks.16",
     "gatsby-plugin-catch-links": "^2.1.23",
     "gatsby-plugin-feed": "^2.3.25",
     "gatsby-plugin-glamor": "^2.1.18",

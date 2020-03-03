@@ -1552,10 +1552,10 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
-"@wardpeet/gatsby-plugin-sourcemap-explorer@^0.0.1":
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-sourcemap-explorer/-/gatsby-plugin-sourcemap-explorer-0.0.1.tgz#a22284b32b3c3c7c57628cb80071f2c726e4657c"
-  integrity sha512-4VWjhVEfnUpnXX5Pqy74AC8pDKML2Z0ATatDO6txECYf+/7RRV6cytNt70aDBQpDjm4rbMBD03oN1kH9n+H6bA==
+"@wardpeet/gatsby-plugin-sourcemap-explorer@^0.0.2":
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-sourcemap-explorer/-/gatsby-plugin-sourcemap-explorer-0.0.2.tgz#8f1e12c0efae9741083a37a486172e71050fe679"
+  integrity sha512-UT1fv7Q1SOeuHKuIrG+qrTwhH1ttErn0B0Y2YUpMCniIgLuBwhfxykZI30a1QR5E4CdEql2lKJOqU04g5/3kqA==
   dependencies:
     execa "^4.0.0"
     source-map-explorer "^2.3.1"
@@ -6814,10 +6814,10 @@ gatsby-transformer-sharp@^2.3.11:
     semver "^5.7.1"
     sharp "^0.23.4"
 
-gatsby@^2.19.25-granular-chunks.15:
-  version "2.19.25-granular-chunks.15"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.19.25-granular-chunks.15.tgz#b56bb833d7173e441f76590ec9aeaa0946564b24"
-  integrity sha512-wqLu0CDBEP+AJq9FWUTiwmMd5FFg2zwRpxEa3X5An8MJoauPrXCI3QYlZTT+Pahws8ln57s06hIj+AdoB4C++A==
+gatsby@^2.19.25-granular-chunks.16:
+  version "2.19.25-granular-chunks.16"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.19.25-granular-chunks.16.tgz#14be0769d18a2587a60d753991bbaefb1815b00a"
+  integrity sha512-7dErUYQdlY2p2+zdHgc6OHKsSN/mUrim32mov49xb4rnwpjHn35g1Xy69UIY74/GMdhZ5tT75bsvTebrybDGQg==
   dependencies:
     "@babel/code-frame" "^7.5.5"
     "@babel/core" "^7.7.5"
