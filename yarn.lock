@@ -1552,10 +1552,10 @@
     semver "^6.3.0"
     tsutils "^3.17.1"
 
-"@wardpeet/gatsby-plugin-sourcemap-explorer@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-sourcemap-explorer/-/gatsby-plugin-sourcemap-explorer-0.0.2.tgz#8f1e12c0efae9741083a37a486172e71050fe679"
-  integrity sha512-UT1fv7Q1SOeuHKuIrG+qrTwhH1ttErn0B0Y2YUpMCniIgLuBwhfxykZI30a1QR5E4CdEql2lKJOqU04g5/3kqA==
+"@wardpeet/gatsby-plugin-sourcemap-explorer@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@wardpeet/gatsby-plugin-sourcemap-explorer/-/gatsby-plugin-sourcemap-explorer-0.0.3.tgz#4c8025e2f95d830247d5f70c0c41ca4b884f19fa"
+  integrity sha512-+zLhqFv2xqc4aJQsxA5JaSkSKIqLsQxNCwM5SExhyj295P4tUbm20F+3t1+Zbujh25TxrEX8Sg5P5YmyjEwc2Q==
   dependencies:
     execa "^4.0.0"
     source-map-explorer "^2.3.1"
