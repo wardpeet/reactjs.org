@@ -174,6 +174,7 @@ module.exports = {
         legacy: true,
       },
     },
-    `@wardpeet/gatsby-plugin-sourcemap-explorer`
+    `@wardpeet/gatsby-plugin-sourcemap-explorer`,
+    `gatsby-plugin-performance-doctor`,
   ],
 };
