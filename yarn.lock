@@ -6925,10 +6925,10 @@ gatsby-transformer-sharp@^2.3.11:
     semver "^5.7.1"
     sharp "^0.23.4"
 
-gatsby@^2.19.25-granular-chunks.18:
-  version "2.19.25-granular-chunks.18"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.19.25-granular-chunks.18.tgz#82e51cee8fb7c0f6ca078f900b5972a00092c379"
-  integrity sha512-PrhAj4hyX+k/asTW3zs4+LIN+kwE2zM1GGIhv6JRNLt7owuWj+2MJgjtMDU61FHz3gKGQNwvEoVM88UnbSVxcQ==
+gatsby@^2.19.25-granular-chunks.19:
+  version "2.19.25-granular-chunks.19"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.19.25-granular-chunks.19.tgz#d91757809b43713637c00cb283be449c8129fa4d"
+  integrity sha512-yeDhg/emmRkqSgJMumD5xprao41nv3ypEl0N+LWbXpyXEr018SUA92nzVw724UbBdTseFnHQUPV9W3UC3RcdDg==
   dependencies:
     "@babel/code-frame" "^7.5.5"
     "@babel/core" "^7.7.5"
