@@ -19,7 +19,7 @@
     "eslint-plugin-react": "^7.4.0",
     "eslint-plugin-relay": "^0.0.19",
     "flow-bin": "^0.56.0",
-    "gatsby": "^2.19.49",
+    "gatsby": "^2.20.3-granular-chunks.8",
     "gatsby-plugin-catch-links": "^2.1.23",
     "gatsby-plugin-feed": "^2.3.25",
     "gatsby-plugin-glamor": "^2.1.18",
